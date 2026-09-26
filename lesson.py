@@ -14,8 +14,8 @@ name= "axmed cali madaxay"
 age =60
 print(f" my  full name is { name}, my age is {age}")
 name_pust= "PUST UNIVERSITY"
-print(f"my name is {name}, my age is {age}, my university is  {name_pust}")
-marks = int(input("Enter your Grade: "))
+print(f"my name is {name}, My age is {age}, my university is  {name_pust}")
+marks = int(input("Enter Your Grade: "))
 if(marks >= 200):
   print("invalid marks")
 elif(marks==90):
